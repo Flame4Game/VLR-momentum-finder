@@ -6,6 +6,10 @@ This code came out of a school project, where I needed some data to do some kind
 
 I'd been very interested in the idea of momentum, and I love VALORANT, so here it is.
 
+### Disclaimer ###
+
+A lot of the code is AI-written. The comments are all AI-generated.
+
 ## How to use it ##
 
 Uhh idk how to use code ig just copy and paste it in a Python compiler?
