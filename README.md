@@ -12,7 +12,9 @@ A lot of the code is AI-written. The comments are all AI-generated.
 
 ## How to use it ##
 
-Uhh idk how to use code ig just copy and paste it in a Python compiler?
+You will need to install the following packages:
+- BeautifulSoup4
+- Requests
 You need the vlr team number, it should show in the URL. You also need the number of matches you want to analyze.
 
 ## Limitations ##
